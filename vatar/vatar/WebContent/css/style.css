@@ -1,0 +1,65 @@
+/* cellpadding */
+.mensaje {
+	padding: 5px;
+}
+
+.centrar {
+	text-align: center;
+}
+
+.msnIcono {
+	BORDER-BOTTOM: #9884a7 1px solid;
+	padding-top: 9px;
+}
+
+.tablaTitulo {
+	align-content: center;
+	width: 100%
+}
+
+.respuesta {
+	FONT: bold x-small Verdana, Arial, Helvetica, Sans Serif;
+	color: blue;
+	text-decoration: underline;
+}
+
+.encabezado {
+	height: 25px;
+}
+
+.imgCentrada {
+    vertical-align: middle;
+}
+
+.flechaNav {
+	vertical-align: middle;
+    border: 0px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+table#idCommandBarMB_Message0 {
+	width: 100%;
+	padding-bottom: 5px;
+	padding-top: 2px;
+}
+
+table {
+	border-spacing: 0px;
+	padding: 0px;
+}
+
+.table100 {
+	width: 100%;
+	padding: 0px;	
+}
+
+.table104 {
+	width: 100%;
+	padding: 4px;	
+}
+
+.table110 {
+	width: 100%;
+	padding: 10px;	
+}

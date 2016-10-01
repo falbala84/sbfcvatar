@@ -1,0 +1,45 @@
+.enlaceTop1 {
+	color: white;
+}
+A.Command{FONT: bold x-small Verdana,Arial,Helvetica,Sans Serif; text-decoration: underline}
+A.SystemLink{FONT: bold small Arial,Helvetica,Sans Serif;}
+A.FrameLink{FONT: small Arial,Helvetica,Sans Serif;}
+A.SubLink{FONT: x-small Arial,Helvetica,Sans Serif;}
+A.NavLink{FONT: bold small Arial,Helvetica,Sans Serif;}
+A.ChildLink{FONT: small Arial,Helvetica,Sans Serif;}
+A.LargeCommand{FONT: bold small Arial,Helvetica,Sans Serif;}
+A.MsgLink{FONT: bold small Arial,Helvetica,Sans Serif;TEXT-DECORATION: none;}
+A.MsgLink:hover{TEXT-DECORATION: underline;}
+A.MsgLink:visited{FONT-WEIGHT: normal;}
+A.TitleLink{FONT: bold medium Arial,Helvetica,Sans Serif;}
+A.StdLink{FONT: small Arial,Helvetica,Sans Serif;}
+A.HeaderLink{FONT: small Arial,Helvetica,Sans Serif;TEXT-DECORATION: none;}
+A.HeaderLink:hover{TEXT-DECORATION: underline;}
+A.FooterLink{FONT: x-small Arial,Helvetica,Sans Serif;}
+A.Cat{FONT: bold small Arial,Helvetica,Sans Serif;}
+A.SubCat{FONT: x-small Arial,Helvetica,Sans Serif;}
+A.LgtCmd{FONT: bold x-small Verdana,Arial,Helvetica,Sans Serif;}
+A.MSNLink{FONT: bold 9pt Tahoma,Arial,Helvetica,Sans Serif;TEXT-DECORATION: none;}
+SELECT.Standard{FONT: x-small Arial,Helvetica,Sans Serif;}
+BODY {font-family:Tahoma, arial, verdana, ms sans serif;}
+.FRHdTitle{font:bold 18px Arial, verdana, times, sans serif; color:#ffffff;}
+.FRHdLink {font: 11px Tahoma, arial, verdana, ms sans serif; text-decoration:none; color:#ffffff}
+.FRHdLink:hover {text-decoration:underline}
+.FRHdLeft {font:Tahoma, arial, verdana, ms sans serif; color:#ffffcc;}
+.FRHdName{font:medium Tahoma, arial, verdana, ms sans serif; color:#ffffff;}
+.FRHdPgTitle{font:bold 13px Tahoma, arial, verdana, ms sans serif; color:#ffffff;}
+.FRHdUser{font:x-small Tahoma, arial, verdana, ms sans serif; color:#ffffcc;}
+A.FRHdTop7{font:8pt Tahoma, arial, verdana, ms sans serif; color:#ffffff; text-decoration:none;}
+A.FRHdTop7:hover{text-decoration:underline;font: 8pt Tahoma, arial, verdana, ms sans serif; color:#ffffff; text-decoration:none;}
+A.FRFtrLink{color:#ffffff; font: xx-small Tahoma, arial, verdana, ms sans serif; text-decoration:none;}
+A.FRFtrLink:hover{text-decoration:underline;}
+.FRMore{font-weight: bold; font-size: 11px; COLOR: #ffffff; FONT-FAMILY: Tahoma, arial, verdana, ms sans serif; text-decoration: none}
+.FRMore:hover{text-decoration:underline;}
+.FRGoBtn{font-size: 11px; font-family: Tahoma, arial, verdana, ms sans serif;}
+.FRSm{font-size: xx-small; font-family: Tahoma, arial, verdana, ms sans serif; COLOR: #ffffff;}
+.FRBr{font-size: 10px; color: #bdbebd; font-family: Tahoma, arial, verdana, ms sans serif; text-decoration: none;}
+.FRtb {font-size:x-small;}
+.FRvnav td {font-size:71%;}
+.frLeftNavTopLinkFont {
+	FONT: bold 71% Tahoma, arial, verdana, ms sans serif; 
+}
